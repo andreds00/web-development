@@ -1,0 +1,21 @@
+Discussão em Grupo (15 min)
+Organizar a turma em grupos de 3–4 pessoas. Cada grupo responde oralmente e 
+um porta-voz compartilha:
+
+1. Por que praticamente todo site hoje usa HTTPS?  
+   Por causa do nível de segurança mais elevado, pois o HTTPS possui criptografia 
+dos dados assim passando uma experiência mais segura e tranquila para o usuário 
+e a integridade dos seus dados.
+
+2. O que aconteceria se navegadores não interpretassem HTML?  
+   Não seria possível exibir as páginas web que conhecemos hoje, pois o navegador 
+iria devolver somente o código, devido a ele não conhecer as marcações do HTML.
+
+3. Qual a maior mudança da Web 1.0 para a Web 2.0?  
+   As páginas web deixam de ser estáticas e começam a ser dinâmicas, dando ao 
+usuário o poder de se expressar ou interagir com o público e inserir dados.
+
+4. Como a IA pode mudar o desenvolvimento web no futuro?  
+   Eu acredito que haverá uma adaptabilidade e personalização maior nas páginas e 
+solucionar dúvidas com maior eficácia e agilidade.
+
